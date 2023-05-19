@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Editors fot ASP.NET Web Forms - How to raise validation on the client
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e124/)**
+**[[Run Online]](https://codecentral.devexpress.com/128542134/)**
 <!-- run online end -->
 
 This example demonstrates how to raise client-side validation automatically or on a specific action for a single editor or a group of editors.
