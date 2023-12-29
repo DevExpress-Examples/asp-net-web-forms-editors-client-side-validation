@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Editors for ASP.NET Web Forms - How to raise validation on the client
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128542134/)**
-<!-- run online end -->
 
 This example demonstrates how to raise client-side validation automatically or on a specific action for a single editor or a group of editors.
 
