@@ -9,9 +9,6 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to raise validation on the client side
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128542134/)**
-<!-- run online end -->
 
 
 <p>This demo demonstrates how to raise editors' validation.</p><p><strong>See also:</strong><br />
